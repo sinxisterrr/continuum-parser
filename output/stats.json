@@ -1,0 +1,19 @@
+{
+  "detectedWeightFields": [],
+  "hasPartsContent": false,
+  "hasTextContent": false,
+  "messageCount": 0,
+  "nodeCount": 0,
+  "roleCounts": {},
+  "miraHintCounts": {
+    "memory": 0,
+    "identity": 0,
+    "relationship": 0,
+    "agent": 0,
+    "unknown": 0
+  },
+  "avgCharsPerMessage": 0,
+  "avgPartsPerMessage": 0,
+  "timestampMin": null,
+  "timestampMax": null
+}
