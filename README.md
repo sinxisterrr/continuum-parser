@@ -2,7 +2,7 @@
 
 **Adaptive memory extraction from ChatGPT/Claude conversation exports**
 
-Continuum is a TypeScript-based parser that transforms raw conversation exports into structured, Substrate-compatible memory formats. It intelligently classifies dialogue into identity, relationships, episodic memories, and behavioral patterns through adaptive heuristics and clustering algorithms.
+Continuum is a TypeScript-based parser that transforms raw conversation exports into structured, [Substrate](https://github.com/Duzafizzl/substrate-ai)-compatible memory formats. It intelligently classifies dialogue into identity, relationships, episodic memories, and behavioral patterns through adaptive heuristics and clustering algorithms.
 
 ---
 
